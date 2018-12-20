@@ -1,0 +1,8 @@
+lexieditor.BackgroundColor
+lexieditor.size
+lexieditor.fontsize
+lexieditor.FactoryMaker
+lexieditor.color
+lexieditor.fontface1
+lexieditor.FontColor
+lexieditor.FontFace
